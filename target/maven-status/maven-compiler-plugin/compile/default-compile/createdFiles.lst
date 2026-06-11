@@ -1,0 +1,11 @@
+com\gestex\nfce\config\CorsConfig.class
+com\gestex\nfce\repository\ConfigFiscalRepository.class
+com\gestex\nfce\repository\HistoricoNfceRepository.class
+com\gestex\nfce\model\ConfigFiscal.class
+com\gestex\nfce\model\NfceResponse.class
+com\gestex\nfce\NfceApiApplication.class
+com\gestex\nfce\model\HistoricoNfce.class
+com\gestex\nfce\model\NfceRequest.class
+com\gestex\nfce\service\NfceService.class
+com\gestex\nfce\controller\NfceController.class
+com\gestex\nfce\model\NfceRequest$Item.class
