@@ -19,4 +19,9 @@ public class NfceController {
     public NfceResponse emitirNota(@PathVariable Long empresaId, @RequestBody NfceRequest request) throws Exception {
         return nfceService.emitirNota(empresaId, request);
     }
+
+    @GetMapping("/ping")
+    public String ping() {
+        return "pong";
+    }
 }
